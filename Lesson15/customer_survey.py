@@ -1,5 +1,6 @@
 ##This is a customer survey function. Feel free to modify the questions
 
+
 def survey():
   userInput=[]
 
